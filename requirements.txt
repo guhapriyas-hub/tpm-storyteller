@@ -3,3 +3,4 @@ pandas
 openai
 python-pptx
 fpdf
+openpyxl
